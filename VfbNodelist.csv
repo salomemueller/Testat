@@ -2,7 +2,7 @@ id,name,country,type
 1,Florian Mueller,Deutschland,1
 Mainz,Mainz05,Deutschland,2
 33,Fabian Bredlow,Deutschland,1
-Nuernberg,1.FC Nuernberg,Deutschland,2
+Nuernberg,FC Nuernberg,Deutschland,2
 42,Florian Schock,Deutschland,1
 StuttgartII,Stuttgart II,Deutschland,2
 5,Konstantinos Mavropanos,Griechenland,1
@@ -18,7 +18,7 @@ Freiburg,SC Freiburg,Deutschland,2
 23,Orel Mangala,Belgien,1
 Hamburg,Hamburger SV,Deutschland,2
 3,Wataru Endo,Japan,1
-Truiden,VV St. Truiden,Belgien,2
+Truiden,VV St Truiden,Belgien,2
 16,Atakan Karazor,Deutschland,1
 Kiel,Holstein Kiel,Deutschland,2
 32,Naouirou Ahamada,Frankreich,1
@@ -32,10 +32,10 @@ Sandhausen,SV Sandhausen,Deutschland,2
 14,Silas Katompa Mvumpa,Kongo,1
 ParisFC,Paris FC,Frankreich,2
 30,Roberto Massimo,Deutschland,1
-Bielefeld,Arm. Bielefeld,Deutschland,2
+Bielefeld,Arm Bielefeld,Deutschland,2
 11,Erik Thommy,Deutschland,1
-Duesseldorf,F.Düsseldorf,Deutschland,2
-20,Philipp Förster,Deutschland,1
+Duesseldorf,F Düsseldorf,Deutschland,2
+20,Philipp Foerster,Deutschland,1
 31,Mateo Klimowicz,Deutschland,1
 Instituto,Instituto AC,Argentinien,2
 25,Lilian Egloff,Deutschland,1
